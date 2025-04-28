@@ -1,0 +1,22 @@
+﻿S.NO.,Key,Version,Title,Owner
+1,SOFT-TC-12,1,FormatFactory - aktualizace programu,Martin Továrek
+2,SOFT-TC-13,1,FormatFactory - přenese DVD do video souboru,Martin Továrek
+3,SOFT-TC-14,1,FormatFactory - přenese DVD do video souboru - anglické znění + české titulky,Martin Továrek
+4,SOFT-TC-17,1,"FormatFactory - přenese CD do audio souboru ",Martin Továrek
+5,SOFT-TC-18,1,FormatFactory - spojovač PDF,Martin Továrek
+6,SOFT-TC-19,1,FormatFactory - komprimace PDF,Martin Továrek
+7,SOFT-TC-20,1,FormatFactory - převod textu do PDF,Martin Továrek
+8,SOFT-TC-21,1,FormatFactory - převod PDF do textu,Martin Továrek
+9,SOFT-TC-22,1,FormatFactory - převod JPG do PNG,Martin Továrek
+10,SOFT-TC-23,1,FormatFactory - převod PNG do JPG,Martin Továrek
+11,SOFT-TC-24,1,FormatFactory - audio sloučení více skladeb,Martin Továrek
+12,SOFT-TC-25,1,FormatFactory - převod formátu m4a do formátu mp3,Martin Továrek
+13,SOFT-TC-26,1,FormatFactory - převod formátu mp3 do formátu FLAC,Martin Továrek
+14,SOFT-TC-27,1,FormatFactory - převod formátu avi do formátu MP4,Martin Továrek
+15,SOFT-TC-28,1,FormatFactory - převod formátu MP4 do formátu MKV,Martin Továrek
+16,SOFT-TC-29,1,FormatFactory - sloučení dvou videjí dohromady včetně zvukové stopy,Martin Továrek
+17,SOFT-TC-30,1,FormatFactory - rozdělí zvlášť zvukovou stopu a video stopu,Martin Továrek
+18,SOFT-TC-31,1,"FormatFactory - záznam nahrávání nám nahraje celou obrazovku ",Martin Továrek
+19,SOFT-TC-32,1,FormatFactory - sloučení dvou videjí a fotky dohromady včetně zvukové stopy,Martin Továrek
+20,SOFT-TC-33,1,FormatFactory - videopřehravač přehraje film z paměti počítače do 2 GB bez zaseknutí,Martin Továrek
+21,SOFT-TC-34,1,FormatFactory - videopřehravač přehraje film z externího disku velký 7 GB bez zaseknutí,Martin Továrek
